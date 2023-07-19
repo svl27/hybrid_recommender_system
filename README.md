@@ -79,7 +79,7 @@ Users were selected at random for inclusion. All users selected had rated at lea
 
 More details about the contents and use of all these files is given in README HTML document in the dataset.
 
-You can download the dataset from this [link](http://files.grouplens.org/datasets/movielens/ml-10m.zip) 
+You can download the dataset from this link http://files.grouplens.org/datasets/movielens/ml-10m.zip
 
 ## Models
 
