@@ -1,1 +1,1 @@
-# hybrid_recommender_system
+# Hybrid Recommender System using Content-based Filtering and Collaborative-based Filtering
