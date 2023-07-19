@@ -47,7 +47,7 @@ Please note that every time you start a new terminal session, you will need to r
 ## Dataset
 
 This data set contains 10000054 ratings and 95580 tags applied to 10681 movies by 71567 users of the online movie recommender service MovieLens.
-You can download the dataset from this [link](“http://files.grouplens.org/datasets/movielens/ml-10m.zip).
+You can download the dataset from this [link](http://files.grouplens.org/datasets/movielens/ml-10m.zip).
 
 
 
