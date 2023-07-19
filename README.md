@@ -11,3 +11,7 @@ A recommender system is a tool that predicts a user's preferences or ratings for
 This project requires several Python libraries for data analysis and machine learning, including pandas, numpy, scikit-learn, scipy, surprise, and fuzzywuzzy. You can install these libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn scipy surprise fuzzywuzzy
+
+You can also Python package to setup poetry as explained below. I have also included 'pyproject.toml' and 'poetry.lock' for your reference.
+
+## Installing Packages Using Poetry
